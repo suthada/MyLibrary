@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace MyLibrary
 {
-    internal class MyMath
+    public class MyMath
     {
-        int getSummation(int a, int b)
+        public int getSummation(int a, int b) //มีผลกับtextbox1
         {
-            return a+b;
+            return a*b;
         }
-        int getSummation(int a, int b, int c)
+        public int getSummation(int a, int b, int c) //มีผลกับtextbox2
         {   
             return a+b+c; 
         }

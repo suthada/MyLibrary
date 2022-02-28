@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\bin\Debug\net6.0-windows\MyLibrary.deps.json
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\bin\Debug\net6.0-windows\MyLibrary.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\bin\Debug\net6.0-windows\ref\MyLibrary.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\bin\Debug\net6.0-windows\MyLibrary.pdb
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.AssemblyInfo.cs
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\obj\Debug\net6.0-windows\ref\MyLibrary.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.pdb
+C:\Users\HP\OneDrive\เอกสาร\GitHub\MyLibrary\MyLibrary\MyLibrary\MyLibrary\obj\Debug\net6.0-windows\MyLibrary.csproj.AssemblyReference.cache
